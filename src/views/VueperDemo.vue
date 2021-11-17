@@ -63,9 +63,9 @@ export default {
   }
 }
 
-// .pdp-slides {
-//   .vueperslide  {
-//     transform: translateX(70px);
-//   }
-// }
+.pdp-slides {
+  .vueperslide  {
+    transform: translateX(70px);
+  }
+}
 </style>
